@@ -1,22 +1,21 @@
 # TECH — Coding, Scripting & Applied Technology Labs
 
-This repository is my **TECH** coursework binder for hands-on labs, scripts, and technical exercises completed in my **Associate of Applied Science in Cybersecurity and Networking** program at **DeVry University** *(Expected April 2027 | 3.44 GPA | 2x Dean's List | Undergraduate Certificate in Information Technology Essentials)*.
+This repository is my **TECH** coursework binder for hands-on labs, scripts, and applied technology projects completed at **DeVry University** (*Associate of Applied Science in Cybersecurity and Networking, advancing into a Bachelor's degree*).
 
 ---
 
-### Courses Inside This Binder
-| Course | Title | Focus Areas | Status |
-| :--- | :--- | :--- | :--- |
-| **TECH 110** | Coding and Scripting | Programming fundamentals, scripting logic, basic automation, and troubleshooting | Completed |
-| **TECH 112** | AI in Industry | Practical workplace AI applications, prompt workflows, and operational productivity | Completed |
-| **TECH 204** | Current TECH Coursework | Expanding this folder as new labs and assignments are completed | In Progress |
+### What Goes Inside This Binder
+Each folder inside this repository represents a **TECH** course (such as *Coding and Scripting*, *AI in Industry*, and future technology courses) and contains:
+- Lab objectives and problem statements
+- Scripts, code exercises, and workflow outputs
+- Step-by-step documentation and key takeaways
 
 ---
 
-### Key Skills Demonstrated
-- **Scripting & Logic:** Writing and reading basic scripts, troubleshooting syntax/logic errors, and automating repetitive tasks
-- **Applied Technology:** Using modern AI and productivity tools to improve technical workflows and documentation
-- **Technical Documentation:** Organizing lab steps, inputs, and outcomes so any team member can follow the process
+### Core Skills Demonstrated
+- **Coding & Scripting:** Writing, reading, and debugging basic scripts and automation workflows
+- **Applied Technology & AI:** Integrating practical AI tools and modern software workflows into daily operations
+- **Technical Documentation:** Organizing clear, repeatable notes so any technician can follow the setup
 
 ---
 

@@ -1,10 +1,10 @@
 # TECH — Coding, Scripting & Applied Technology Labs
 
-This repository is my **TECH** coursework binder for hands-on labs, scripts, and applied technology projects completed at **DeVry University** (*Associate of Applied Science in Cybersecurity and Networking, advancing into a Bachelor's degree*).
+This repository is my **TECH** coursework archive for hands-on labs, scripts, and applied technology projects completed at **DeVry University** (*Associate of Applied Science in Cybersecurity and Networking, advancing into a Bachelor's degree*).
 
 ---
 
-### What Goes Inside This Binder
+### What Goes Inside This Repository
 Each folder inside this repository represents a **TECH** course (such as *Coding and Scripting*, *AI in Industry*, and future technology courses) and contains:
 - Lab objectives and problem statements
 - Scripts, code exercises, and workflow outputs

@@ -1,6 +1,6 @@
-# TECH — Coding, Scripting & Applied Technology Labs
+# Technology (TECH) — Coding, Scripting & Applied Technology Labs
 
-This repository is my **TECH** coursework archive for hands-on labs, scripts, and applied technology projects completed at **DeVry University** (*Associate of Applied Science in Cybersecurity and Networking, advancing into a Bachelor's degree*).
+This repository is my **Technology (TECH)** coursework archive for hands-on labs, scripts, and applied technology projects completed at **DeVry University** (*Associate of Applied Science in Cybersecurity and Networking, advancing into a Bachelor's degree*).
 
 ---
 
